@@ -2,8 +2,9 @@
 Open source cross-platform Tasks app built with NativeScript.
 
 Use this application to find-out how to implement common mobile scenarios with NativeScript.
-
+![](https://d2odgkulk9w7if.cloudfront.net/images/default-source/default-album/07-2-signupd66b612a7b776b26a649ff00000922f2.png?sfvrsn=1)
 ![](https://www.nativescript.org/images/default-source/default-album/sample-tasks-list.png)
+![](https://d2odgkulk9w7if.cloudfront.net/images/default-source/default-album/03-editnewtaskbc6b612a7b776b26a649ff00000922f2.png?sfvrsn=1)
 ![](https://www.nativescript.org/images/default-source/default-album/sample-tasks-details.png)
 
 ## Running the sample
